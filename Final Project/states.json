@@ -1,0 +1,357 @@
+[
+
+        {
+            "abbr": "AL",
+            "name": "Alabama",
+            "capital": "Montgomery",
+            "year": "December, 14, 1819",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2021/02/1024px-Flag_of_Alabama.svg_-768x512.png.webp"
+            
+        },
+        {
+            "abbr": "AK",
+            "name": "Alaska",
+            "capital": "Juneau",
+            "year": "January, 3, 1959",
+            "imgURL": "https://www.50states.com/flag/image/nunst003.gif"
+        },
+        {
+            "abbr": "AZ",
+            "name": "Arizona",
+            "capital": "Phoenix",
+            "year": "Feburay, 14, 1912",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/arizona-state-flag_0.png.webp"
+
+            
+        },
+        {
+            "abbr": "AR",
+            "name": "Arkansas",
+            "capital": "Little Rock",
+            "year": "June, 15, 1836",
+            "imgURL": "https://www.50states.com/flag/image/nunst005.gif"
+        },
+        {
+            "abbr": "CA",
+            "name": "California",
+            "capital": "Sacramento",
+            "year": "September, 9, 1850",
+            "imgURL": "https://www.50states.com/flag/image/nunst0006.gif"
+        },
+        {
+            "abbr": "CO",
+            "name": "Colorado",
+            "capital": "Denver",
+            "year": "August, 1, 1876",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/colorado-flag-768x512.png"
+        },
+        {
+            "abbr": "CT",
+            "name": "Connecticut",
+            "capital": "Hartford",
+            "year": "January, 9, 1788",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/Connecticut-state-flag-768x593.png.webp"
+        },
+        {
+            "abbr": "DE",
+            "name": "Delaware",
+            "capital": "Dover",
+            "year": "December, 7, 1787",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/de-largeflag.png.webp"
+        },
+        {
+            "abbr": "FL",
+            "name": "Florida",
+            "capital": "Tallahassee",
+            "year": "March, 3, 1845",
+            "imgURL": "https://www.50states.com/flag/image/nunst012.gif"
+        },
+        {
+            "abbr": "GA",
+            "name": "Georgia",
+            "capital": "Atlanta",
+            "year": "January, 2, 1788",
+            "imgURL": "https://www.50states.com/flag/image/nunst090.gif"
+        },
+        {
+            "abbr": "HI",
+            "name": "Hawaii",
+            "capital": "Honolulu",
+            "year": "August, 21, 1959",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/1280px-Flag_of_Hawaii.svg_-768x384.png"
+        },
+        {
+            "abbr": "ID",
+            "name": "Idaho",
+            "capital": "Boise",
+            "year": "July, 3, 1890",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/660px-Flag_of_Idaho.svg_.png.webp"
+        },
+        {
+            "abbr": "IL",
+            "name": "Illinois",
+            "capital": "Springfield",
+            "year": "December, 3, 1818",
+            "imgURL": "https://www.50states.com/flag/image/nunst019.gif"
+        },
+        {
+            "abbr": "IN",
+            "name": "Indiana",
+            "capital": "Indianapolis",
+            "year": "December, 11, 1816",
+            "imgURL": "https://www.50states.com/flag/image/nunst021.gif"
+        },
+        {
+            "abbr": "IA",
+            "name": "Iowa",
+            "capital": "Des Moines",
+            "year": "December, 28, 1846",
+            "imgURL": "https://www.50states.com/flag/image/nunst022.gif"
+        },
+        {
+            "abbr": "KS",
+            "name": "Kansas",
+            "capital": "Topeka",
+            "year": "January, 29, 1861",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/800px-Flag_of_Kansas-768x461.png.webp"
+        },
+        {
+            "abbr": "KY",
+            "name": "Kentucky",
+            "capital": "Frankfort",
+            "year": "June, 1, 1792",
+            "imgURL": "https://www.50states.com/flag/image/nunst026.gif"
+        },
+        {
+            "abbr": "LA",
+            "name": "Louisiana",
+            "capital": "Baton Rouge",
+            "year": "April, 30, 1812",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/LouisianaStateFlagRGBsmall-768x497.jpg.webp"
+        },
+        {
+            "abbr": "ME",
+            "name": "Maine",
+            "capital": "Augusta",
+            "year": "March, 15, 1820",
+            "imgURL": "https://www.50states.com/flag/image/nunst030.gif"
+        },
+        {
+            "abbr": "MD",
+            "name": "Maryland",
+            "capital": "Annapolis",
+            "year": "April, 28, 1788",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/marylandstateflag-768x512.png"
+        },
+        {
+            "abbr": "MA",
+            "name": "Massachusetts",
+            "capital": "Boston",
+            "year": "Febuary, 6, 1788",
+            "imgURL": "https://www.50states.com/flag/image/nunst033.gif"
+        },
+        {
+            "abbr": "MI",
+            "name": "Michigan",
+            "capital": "Lansing",
+            "year": "January, 26, 1837",
+            "imgURL": "https://www.50states.com/flag/image/nunst035.gif"
+        },
+        {
+            "abbr": "MN",
+            "name": "Minnesota",
+            "capital": "Saint Paul",
+            "year": "May, 11, 1858",
+            "imgURL": "https://www.50states.com/flag/image/nunst037.gif"
+        },
+        {
+            "abbr": "MS",
+            "name": "Mississippi",
+            "capital": "Jackson",
+            "year": "December, 10, 1817",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2021/01/50-States-mississippi-state-flag-768x481.png"
+        },
+        {
+            "abbr": "MO",
+            "name": "Missouri",
+            "capital": "Jefferson City",
+            "year": "August, 10, 1821",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/Missouri-state-flag-flat-768x461.png.webp"
+        },
+        {
+            "abbr": "MT",
+            "name": "Montana",
+            "capital": "Helana",
+            "year": "November, 8, 1889",
+            "imgURL": "https://www.50states.com/flag/image/nunst042.gif"
+        },
+        {
+            "abbr": "NE",
+            "name": "Nebraska",
+            "capital": "Lincoln",
+            "year": "March, 1, 1867",
+            "imgURL": "https://www.50states.com/flag/image/nunst044.gif"
+        },
+        {
+            "abbr": "NV",
+            "name": "Nevada",
+            "capital": "Carson City",
+            "year": "October, 31, 1864",
+            "imgURL": "https://www.50states.com/flag/image/nunst046.gif"
+        },
+        {
+            "abbr": "NH",
+            "name": "New Hampshire",
+            "capital": "Concord",
+            "year": "June, 21, 1788",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/660px-Flag_of_New_Hampshire.svg_.png.webp"
+        },
+        {
+            "abbr": "NJ",
+            "name": "New Jersey",
+            "capital": "Trenton",
+            "year": "December, 12, 1787",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/state-flag-new-jersey_800-768x512.jpg.webp"
+        },
+        {
+            "abbr": "NM",
+            "name": "New Mexico",
+            "capital": "Santa Fe",
+            "year": "January, 6, 1912",
+            "imgURL": "https://www.50states.com/flag/image/nunst052.gif"
+        },
+        {
+            "abbr": "NY",
+            "name": "New York",
+            "capital": "Albany",
+            "year": "July, 26, 1788",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/new-york-31503_1280-768x490.jpg.webp"
+        },
+        {
+            "abbr": "NC",
+            "name": "North Carolina",
+            "capital": "Raleigh",
+            "year": "November, 21, 1789",
+            "imgURL": "https://www.50states.com/flag/image/nunst055.gif"
+        },
+        {
+            "abbr": "ND",
+            "name": "North Dakota",
+            "capital": "Bismarck",
+            "year": "November, 2, 1889",
+            "imgURL": "https://www.50states.com/flag/image/nunst056.gif"
+        },
+        {
+            "abbr": "OH",
+            "name": "Ohio",
+            "capital": "Columbus",
+            "year": "March, 1, 1803",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2021/01/ohio-flag-large-768x472.png"
+        },
+        {
+            "abbr": "OK",
+            "name": "Oklahoma",
+            "capital": "Oklahoma City",
+            "year": "November, 16, 1907",
+            "imgURL": "https://www.50states.com/flag/image/nunst059.gif"
+        },
+        {
+            "abbr": "OR",
+            "name": "Oregon",
+            "capital": "Salem",
+            "year": "Febuary, 14, 1859",
+            "imgURL": "https://www.50states.com/flag/image/nunst061.gif"
+        },
+        {
+            "abbr": "PA",
+            "name": "Pennsylvania",
+            "capital": "Harrisburg",
+            "year": "Decemeber, 12, 1787",
+            "imgURL": "https://www.50states.com/flag/image/nunst063.gif"
+        },
+        {
+            "abbr": "RI",
+            "name": "Rhode Island",
+            "capital": "Providence",
+            "year": "May, 29, 1790",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/660px-Flag_of_Rhode_Island.svg_.png"
+        },
+        {
+            "abbr": "SC",
+            "name": "South Carolina",
+            "capital": "Columbia",
+            "year": "May, 23, 1788",
+            "imgURL": "https://www.50states.com/flag/image/nunst066.gif"
+        },
+        {
+            "abbr": "SD",
+            "name": "South Dakota",
+            "capital": "Pierre",
+            "year": "November, 2, 1889",
+            "imgURL": "https://www.50states.com/flag/image/nunst067.gif"
+        },
+        {
+            "abbr": "TN",
+            "name": "Tennessee",
+            "capital": "Nashville",
+            "year": "June, 1, 1796",
+            "imgURL": "https://www.50states.com/flag/image/nunst069.gif"
+        },
+        {
+            "abbr": "TX",
+            "name": "Texas",
+            "capital": "Austin",
+            "year": "December, 29, 1845",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/640px-Flag_of_Texas4.png.webp"
+        },
+        {
+            "abbr": "UT",
+            "name": "Utah",
+            "capital": "Salt Lake City",
+            "year": "January, 4, 1896",
+            "imgURL": "https://www.50states.com/wp-content/uploads/2020/01/1024px-Flag_of_Utah.svg_-768x480.png.webp"
+        },
+        {
+            "abbr": "VT",
+            "name": "Vermont",
+            "capital": "Montpelier",
+            "year": "March, 4, 1791",
+            "imgURL": "https://www.50states.com/flag/image/nunst073.gif"
+        },
+        {
+            "abbr": "VA",
+            "name": "Virginia",
+            "capital": "Richmond",
+            "year": "June, 25, 1788",
+            "imgURL": "https://www.50states.com/flag/image/nunst075.gif"
+        },
+        {
+            "abbr": "WA",
+            "name": "Washington",
+            "capital": "Olympia",
+            "year": "November, 11, 1889",
+            "imgURL": "https://www.50states.com/flag/image/nunst077.gif"
+        },
+        {
+            "abbr": "WV",
+            "name": "West Virginia",
+            "capital": "Charleston",
+            "year": "June, 20, 1863",
+            "imgURL": "https://www.50states.com/flag/image/nunst099.gif"
+        },
+        {
+            "abbr": "WI",
+            "name": "Wisconsin",
+            "capital": "Madison",
+            "year": "May, 29, 1848",
+            "imgURL": "https://www.50states.com/flag/image/nunst081.gif"
+        },
+        {
+            "abbr": "WY",
+            "name": "Wyoming",
+            "capital": "Cheyenne",
+            "year": "July, 10, 1890",
+            "imgURL": "https://www.50states.com/flag/image/nunst083.gif"
+        }
+    
+    ]
