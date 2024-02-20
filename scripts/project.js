@@ -1,12 +1,10 @@
-/* W05: Programming Tasks */
+// Final Project
 
-/* Declare and initialize global variables */
-// const url = "https://byui-cse.github.io/cse121b-ww-course/resources/temples.json";
 const url = "https://run.mocky.io/v3/acdc33be-96b0-4c71-8d3b-8cf3122982ab";
-// C:\Users\colli\OneDrive\cse121b\Final\states.json
-let statesElement;
 
-/* async displayTemples Function */
+let statesElement;
+let capitalsElement;
+
 async function displayStates(states) {
 
     if (!statesElement) {
@@ -28,7 +26,7 @@ async function displayStates(states) {
         statesElement.appendChild(article);
     });
 }
-/* async getTemples Function using fetch()*/
+
 async function getStates() {
     const response = await fetch(url);
     if (response.ok) {
@@ -37,14 +35,14 @@ async function getStates() {
         displayStates(data);
     }
 }
-/* reset Function */
+
 function reset () {
     if (!statesElement) {
         statesElement = document.getElementById("states");
     }
       statesElement.innerHTML = "";
 }
-/* filterStates Function */
+
 function filterStates(states) {
     reset();
     let filter = document.getElementById("filtered").value;
@@ -53,32 +51,18 @@ function filterStates(states) {
         case "colony":
             displayStates(states.filter(state => new Date(state.year) < new Date(1790, 4, 30)));
             break;
-        // case "sameState":
-            // displayStates(states.filter((state, index, array) => {
-                // const firstLetter = state.name[0].toLowerCase(); // Get the first letter of the state name
-                // return array.some((otherState, otherIndex) => index !== otherIndex && otherState.name[0].toLowerCase() === firstLetter);}));
-// 
-                // 
-            // Organize filtered states into sections based on the starting letter
-            // const sections = {};
-            // filteredStates.forEach(state => {
-                // const firstLetter = state.name[0].toLowerCase();
-                // if (!sections[firstLetter]) {
-                    // sections[firstLetter] = [];
-                // }
-                // sections[firstLetter].push(state);
-            // });
-            // const container = document.getElementById("states-container");
-            // Object.keys(sections).forEach(letter => {
-                // const sectionHeader = document.createElement("h2");
-                // sectionHeader.textContent = `States starting with letter "${letter.toUpperCase()}":`;
-                // container.appendChild(sectionHeader);
-                // displayStatesInHTML(container, sections[letter]);
-            // });
-            // break;
+        case "sameState":
+            displayStates(states.filter((state, index, array) => {
+                const firstLetter = state.name[0].toLowerCase(); // Get the first letter of the state name
+                return array.some((otherState, otherIndex) => index !== otherIndex && otherState.name[0].toLowerCase() === firstLetter);
+            }));
+            break;
         // case "sameCapital":
-            // displayStates(states.filter(state => state.capital.toLowerCase().includes("")));
-            // break;
+            // displayCapitals(states.filter((state, index, array) => {
+                // const firstLetter = state.capital[0].toLowerCase(); // Get the first letter of the state name
+                // return array.some((otherState, otherIndex) => index !== otherIndex && otherState.capital[0].toLowerCase() === firstLetter);
+            // }));
+            break;    
         case "oldest":
             displayStates(states.filter(state => new Date(state.year) < new Date(1787, 11, 8)));
             break;
@@ -95,7 +79,6 @@ function filterStates(states) {
 
 getStates();
 
-/* Event Listener */
 
 document.getElementById("filtered").addEventListener("change", async function () {
     const response = await fetch(url);
